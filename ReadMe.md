@@ -1,3 +1,3 @@
-## [English](https://github.com/miladesign/Vinoos-bugs/ReadMe-en.md)
+## [English](https://github.com/miladesign/Vinoos-bugs/blob/master/ReadMe-en.md)
 
-## [فارسی](https://github.com/miladesign/Vinoos-bugs/ReadMe-fa.md)
+## [فارسی](https://github.com/miladesign/Vinoos-bugs/blob/master/ReadMe-fa.md)
